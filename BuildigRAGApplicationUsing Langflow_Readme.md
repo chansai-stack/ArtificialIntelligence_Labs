@@ -42,9 +42,6 @@ Before getting started with this RAG application, you'll need to download the fo
    - Download the pre-configured flow from: **[Flow File Link](https://drive.google.com/file/d/1ntOfttJ-BacL6ru-nVXTOEyxUFqKC1q7/view?usp=sharing)**
    - This JSON file contains the complete Langflow configuration for the RAG pipeline
    - Import this file into your Langflow instance to get started quickly
-
-3. **Langflow Login Guide**
-   - Follow the instructions provided in the Langflow Login Guide:  **[Click Here](../../Lab-0(Pre-requisites)/Langflow-Login-Guide/Readme.md)**
 ---
 
 ## Importing the Flow in Langflow
